@@ -1,5 +1,6 @@
 ---
 description: What is Elvate, What is DCA, Why and How ?
+cover: .gitbook/assets/BackgroundR150 [Converti]-01.jpg
 coverY: 0
 ---
 
