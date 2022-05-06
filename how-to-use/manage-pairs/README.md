@@ -1,5 +1,6 @@
 ---
 description: Create, Subscribe and Trigger a Pair
+cover: ../../.gitbook/assets/BackgroundR150 [Converti]-01.jpg
 coverY: 0
 ---
 
