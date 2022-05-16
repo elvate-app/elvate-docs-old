@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/BackgroundF186-01.jpg
-coverY: -1047.1457577955039
+cover: ../.gitbook/assets/BackgroundR150 [Converti]-01.jpg
+coverY: 0
 ---
 
 # Contributing

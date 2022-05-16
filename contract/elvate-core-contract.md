@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/BackgroundF186-01.jpg
-coverY: 148.08121827411168
+cover: ../.gitbook/assets/BackgroundR150 [Converti]-01.jpg
+coverY: 0
 ---
 
 # Elvate Core Contract
